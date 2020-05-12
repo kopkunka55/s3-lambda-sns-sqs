@@ -1,5 +1,6 @@
 ## Today's Goal
-<img width="745" alt="スクリーンショット 2020-05-13 0 27 40" src="https://user-images.githubusercontent.com/63289889/81716469-605db700-94b4-11ea-95f4-ada0a4863f3c.png">
+<img width="689" alt="スクリーンショット 2020-05-13 1 08 29" src="https://user-images.githubusercontent.com/63289889/81718087-4c1ab980-94b6-11ea-8b76-de1872c2bd50.png">
+
 
 ## WTF is CDK???
 * OSS
